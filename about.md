@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+OTTOMAN CANNONS CAN'T MELT BYZANTINE WALLS
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cough@coughcough.com](mailto:oscar.halton@challoners.com)
