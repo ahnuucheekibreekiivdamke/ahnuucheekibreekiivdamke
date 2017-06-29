@@ -22,7 +22,11 @@ body {
   font: 18px/1.4 $georgia;
   color: $darkGray;
 }
-
+p.one {
+	border-style: solid;
+        border-width: medium;
+        border-color: #000000
+}
 .container {
   margin: 5;
   max-width: 740px;
