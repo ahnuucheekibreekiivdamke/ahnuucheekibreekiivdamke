@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
+Hi I'm yes
 ### More Information
 
 OTTOMAN CANNONS CAN'T MELT BYZANTINE WALLS
